@@ -7,8 +7,8 @@
 export NUTANIX_NKP_VERSION='2.16.1'
 
 # PC User & Password
-export NUTANIX_USER=admin
-export NUTANIX_PASSWORD="nx2Tech215!"
+export NUTANIX_USER=''
+export NUTANIX_PASSWORD=''
 
 # NKP cluster name.
 # When using NKP Pro/Ultimate, this name is used to generate the license key
