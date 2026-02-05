@@ -1,6 +1,8 @@
 #!/bin/bash
 
 
+mkdir -p /data/txt
+
 # Mgmt-Cluster Full Size:
 nkp create cluster nutanix \
   --cluster-name=${NUTANIX_MGMT_CLUSTER_NAME} \
